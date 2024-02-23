@@ -1,0 +1,16 @@
+.all-content{
+    display:flex ;
+    align-items: center;
+    flex-direction: column;
+}
+.sub-content{
+  padding-top: 10%;
+}
+.sub-content button{
+    width: 150px;
+    height: 35px;
+    border-radius: 50px;
+    background-color: rgb(57, 204, 57);
+    color: white;
+    font-size: 18px;
+}
